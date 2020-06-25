@@ -15,3 +15,7 @@ CSS
 JavaScript
 PHP
 SQL
+
+## 2 Modules
+- Front End : apprendre à créer une interface dynamique avec une initiation à Angular
+- Back End : developper une application orientée objet robuste avec spécialisation sur le Framework Symfony
